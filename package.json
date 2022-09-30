@@ -16,5 +16,5 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"keywords": [ "descriptive", "related", "words" ],
+	"keywords": [ "nodejs", "express", "freecodecamp" ]
 }
