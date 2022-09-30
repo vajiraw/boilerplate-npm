@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"description": "A project that does something awesome",
 	"author": "Vajira W",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
